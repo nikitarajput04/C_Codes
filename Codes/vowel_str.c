@@ -2,7 +2,7 @@
 
 int main() {
     char a[100];
-    int i = 0, vowel = 1;
+    int i = 0, vowel = 0;
 
     printf("Enter the string: ");
     fgets(a, sizeof(a), stdin);
